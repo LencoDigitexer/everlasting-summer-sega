@@ -1,6 +1,21 @@
 # cautious-octo-sniffle
 Port of the game "Everlasting Summer" on SEGA mega drive.
 
+# Development status
+- develop an engine (progress 100%)
+- port the prologue and release a ALPHA version
+- automate the conversion of original art into an 8-bit version in photoshop
+- port the all 7 day and release a DEMO version
+- write an 8-bit OST on the VGM-music algorithm
+- testing the game
+
+## The plot of the game
+The main character ends up in the pioneer camp "Sovenok", where he must live for 7 days and solve the mystery of the mysterious movement, or maybe find new acquaintances or even the love of his life.
+
+## Future plans
+- Release the game on https://itch.io/
+- Assemble a physical cartridge for the original SEGA
+
 ## Concept and DevKit
 The idea is to rewrite the [original game](https://everlastingsummer.su/) on the 16-bit Sega MEGA drive platform. <br>
 The development uses the [SGDK](https://github.com/Stephane-D/SGDK) library - a free and open development kit for the Sega Mega Drive.<br>
