@@ -23,7 +23,7 @@ Using the [instructions](https://under-prog.ru/sgdk-%D1%81%D0%BE%D0%B7%D0%B4%D0%
 1) The SDK does not support Cyrillic. There have been attempts to use a common font file from the res folder, but the method is not suitable for other functions, because it uses an array of bytes instead of a string. 
 
 solution: use a single font file from the res folder, replace all English letters with Russian letters.
-Russian Russian alphabet has 20 letters, and 33. 13 ASCII characters of the code will have to be sacrificed for Russian letters. Moreover, the letters "Ъ", "Ы", "Ь" do not need to be written twice - a small letter is enough.
+restriction: Russian alphabet consists of 33 letters, and English of 26. 6 ASCII characters of the code will have to be sacrificed for Russian letters. Moreover, the letters "Ъ", "Ы", "Ь" do not need to be written twice - a small letter is enough.
 ```python
 d={
     'А':'A', 
