@@ -1,0 +1,2 @@
+printMessage("ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`", NULL, NULL, NULL);
+printMessage("abcdefghijlmnopqrstuvwxyz[\\]$&@", NULL, NULL, NULL);
