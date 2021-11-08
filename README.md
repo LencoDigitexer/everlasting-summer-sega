@@ -89,3 +89,35 @@ with open("draft_out.txt", "w") as file:
     file.write(result)
 
 ```
+
+
+## Convert original art
+SEGA mega drive uses two screen resolution settings depending on the type of console:
+ - Two main machine types:
+
+    - NTSC machines
+
+        - "Sega Genesis", 60Hz machines, primarily found in the US
+
+        - Resolutions
+
+            - H40 mode - 320x224 px (40x28 tiles). More common resolution mode
+
+            - H32 mode - 256x224 px (32x28 tiles). Less common resolution mode
+
+        - SGDK games are NTSC use
+
+    - PAL machines
+
+        - "Sega Mega Drive", 50Hz machines, everywhere else
+
+        - Resolution
+
+            - H40 mode - 320x240 px (40x30 tiles). More common resolution mode
+
+            - H32 mode - 256x240 (32x30 tiles). Less common resolution mode
+
+In this project use H40 mode 320x224 px.<br>
+All images use 8 bit channel of indexed color.<br>
+In Adobe Photoshop used Local(adaptive) pallitre with 32 color and transparency.<br>
+The local(adaptive) pallitre used points color for best mixed color on little resolution.
