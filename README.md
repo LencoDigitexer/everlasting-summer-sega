@@ -1,4 +1,4 @@
-# cautious-octo-sniffle
+# everlasting-summer-sega
 Port of the game "Everlasting Summer" on SEGA mega drive.
 
 # Development status
