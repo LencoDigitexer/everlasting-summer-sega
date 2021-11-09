@@ -10,7 +10,7 @@ Port of the game "Everlasting Summer" on SEGA mega drive.
 - testing the game
 
 ## The plot of the game
-The main character ends up in the pioneer camp "Sovenok", where he must live for 7 days and solve the mystery of the mysterious movement, or maybe find new acquaintances or even the love of his life.
+The main character ends up in the pioneer camp "Sovenok", where he must live for 7 days and solve the secret of the mysterious movement, or maybe find new acquaintances or even the love of his life.
 
 ## Future plans
 - Release the game on https://itch.io/
