@@ -1,0 +1,1 @@
+printMessage("ÒS\\ pojegy] ro mnoj?", NULL, NULL, NULL);
