@@ -76,7 +76,7 @@ d={
 
 result = ""
 out = ""
-with open("draft.txt", "r") as file:
+with open("draft.txt", "r", encoding="utf-8") as file:
     lines = file.readlines()
     for line in lines:
         if line[0] != '/' and line[0] != '[' and line != '\n' and line[0] != '>':

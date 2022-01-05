@@ -1,2 +1,1 @@
-printMessage("ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`", NULL, NULL, NULL);
-printMessage("abcdefghijlmnopqrstuvwxyz[\\]$&@", NULL, NULL, NULL);
+printMessage("sfrs abcdefhijlmn", NULL, NULL, NULL);
