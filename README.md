@@ -1,5 +1,7 @@
 # everlasting-summer-sega
 Port of the game "Everlasting Summer" on SEGA mega drive.
+![image](https://user-images.githubusercontent.com/44779327/159342968-282cd254-bda9-4083-9003-8f163a163a72.png)
+
 
 # Development status
 - develop an engine (progress 100%)
